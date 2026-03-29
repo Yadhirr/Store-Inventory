@@ -1,0 +1,11 @@
+1,Apple,Fruit,10,50.0
+2,Banana,Fruit,20,100.0
+3,Shirt,Clothing,5,500.0
+4,Pants,Clothing,3,600.0
+5,Orange,Fruit,15,75.0
+6,Bread,Bakery,100,15.0
+7,Milk,Dairy,50,30.0
+8,Eggs,Dairy,200,100.0
+9,Chicken,Meat,25,150.0
+10,Beef,Meat,15,300.0
+11,Cheese,Dairy,50,75.0
