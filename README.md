@@ -5,8 +5,7 @@ A simple Python program for managing store inventoryA simple Python program for 
 - Update exisiting products
 - Sort products by price 
 - Filter products by category 
-- Generate inventory summary report 
-- Generate category summary report
+- Generate inventory summary & category report 
 
 ## Files
 
