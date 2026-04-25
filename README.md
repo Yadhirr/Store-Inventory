@@ -1,6 +1,6 @@
 ## Store Inventory Management System
 
-A simple Python program for managing store inventoryA simple Python program for managing store inventory using a text file. It allows users to add, update, delete, sort, and filter products through a menu-driven console interface.
+A simple Python program for managing store inventory. A simple Python program for managing store inventory using a text file. It allows users to add, update, delete, sort, and filter products through a menu-driven console interface.
 - Add and Delete products
 - Update exisiting products
 - Sort products by price 
